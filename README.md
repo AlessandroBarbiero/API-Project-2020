@@ -2,7 +2,7 @@
 Politecnico di Milano - Accademic Year 2019-2020  
 Algorithms and Principles of Computer Science
 
-
+![Example](Example.gif)
 
 ## Goal
 Simulate a Line Text Editor (like Ed) focusing on performances in terms of time and space complexity .
